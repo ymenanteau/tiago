@@ -1,0 +1,7 @@
+chips
+pringles
+tasse
+mouchoir
+poubelle
+balai
+small_can
