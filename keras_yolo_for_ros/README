@@ -1,6 +1,7 @@
 Adaptation de keras_yolo3 pour ROS
 
-Copier les poids avec le nom yolo.h5 dans le dossier include\keras_yolo3\model_data
+Télécharger et copier les poids sous le nom yolo.h5 dans le dossier include\keras_yolo3\model_data
+Lien vers les poids: https://drive.google.com/open?id=1b8fZ-OjrLjxjcT5y8CKOAJopCiLVKICu
 Utiliser le script python yolo_video.py de ce package avec rosrun (pas de paramètres)
 
 Topic lu : /camera/rgb/image_raw (un des topics utilisés par défaut par astra_launch)
