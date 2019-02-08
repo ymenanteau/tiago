@@ -1,0 +1,3 @@
+Adaptation de keras_yolo3 pour ROS
+
+Copier les poids avec le nom yolo.h5 dans le dossier 
